@@ -6,7 +6,13 @@ I took an excel datasheet consisting of 4,000+ past projects to organize and ana
 
 For starters, the project state was color coded for easier differentiation among the different states of the projects.
 
+![Kickstart Table](images/image1.png)
+
 Pivot tables were used to take the data and present it in different graphs to summarize the findings.
+
+![Bar Graph](images/image2.png)
+
+![Line Graph](images/image3.png)
 
 Conclusions may be found in StarterBook Conclusions word document.
 
